@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/PwnMaGe/PwnMaGe/refs/heads/main/PwnMaGe.png"  />
+  <img style='width: 100%;height: auto;'src="https://raw.githubusercontent.com/PwnMaGe/PwnMaGe/refs/heads/main/PwnMaGe.png"  />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">💀 Hacker | Dev | Problem Solver<br><br>Just a guy who loves to tinker, break things, and figure out how they work. I’m into coding, security, and anything that gets my brain buzzing.<br><br>⚡ Tech I Mess With: Python, Bash, Powershell, JS, Linux<br>🔐 Into: Hacking, privacy, and pushing limits</p>
+<p align="left">💀 Hacker | Dev | Problem Solver<br><br>Just a guy who loves to tinker, break things, and figure out how they work. I’m into coding, security, and anything that gets my brain buzzing.<br><br>⚡ <b>Tech I Mess With:</b> Python, Bash, Powershell, JS, Linux<br>🔐 <b>Into:</b> Hacking, privacy, and pushing limits</p>
 
 ###
 
@@ -42,9 +42,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
