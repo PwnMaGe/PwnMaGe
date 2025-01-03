@@ -17,7 +17,7 @@
 
 ###
 
-💀 Hacker | Dev | Problem Solver
+💀 **Hacker | Dev | Problem Solver**
 <br><br>
 Just a guy who loves to tinker, break things, and figure out how they work. I’m into coding, security, and anything that gets my brain buzzing.
 - ⚡ <b>Tech I Mess With:</b> Python, Bash, Powershell, JS, Linux
