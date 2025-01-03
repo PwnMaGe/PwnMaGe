@@ -1,5 +1,5 @@
 <div align="center">
-  <img style='width: 100%;height: auto;'src="[https://raw.githubusercontent.com/PwnMaGe/PwnMaGe/refs/heads/main/PwnMaGe.png](https://raw.githubusercontent.com/PwnMaGe/PwnMaGe/refs/heads/main/PwnMaGe-Banner-2.png)"  />
+  <img style='width: 100%;height: auto;'src="https://raw.githubusercontent.com/PwnMaGe/PwnMaGe/refs/heads/main/PwnMaGe-Banner-2.png"  />
 </div>
 
 ###
