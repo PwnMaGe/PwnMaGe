@@ -13,15 +13,22 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">💀 Hacker | Dev | Problem Solver<br><br>Just a guy who loves to tinker, break things, and figure out how they work. I’m into coding, security, and anything that gets my brain buzzing.<br><br>⚡ <b>Tech I Mess With:</b> Python, Bash, Powershell, JS, Linux<br>🔐 <b>Into:</b> Hacking, privacy, and pushing limits</p>
+<p align="left">💀 Hacker | Dev | Problem Solver
+<br><br>
+Just a guy who loves to tinker, break things, and figure out how they work. I’m into coding, security, and anything that gets my brain buzzing.
+<br><br>
+- ⚡ <b>Tech I Mess With:</b> Python, Bash, Powershell, JS, Linux
+<br>
+- 🔐 <b>Into:</b> Hacking, privacy, and pushing limits
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Tech Stack:</h2>
 
 ###
 
