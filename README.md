@@ -13,7 +13,7 @@
 
 ###
 
-## 👩‍💻  About Me
+### 👩‍💻  About Me
 
 ###
 
@@ -28,7 +28,7 @@ Just a guy who loves to tinker, break things, and figure out how they work. I’
 
 ###
 
-## 🛠 Tech Stack:
+**### 🛠 Tech Stack**:
 
 ###
 
